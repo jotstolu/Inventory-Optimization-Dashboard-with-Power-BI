@@ -62,7 +62,7 @@ The dataset includes the following key fields:
 ![Supplier Performance](https://github.com/jotstolu/Inventory-Optimization-Dashboard-with-Power-BI/blob/main/snapshots/supplier%20insight.png?raw=true)
 
 ### Country-Level Inventory Breakdown
-![Stock by Country](./screenshots/stock_by_country.png)
+![Stock by Country](https://github.com/jotstolu/Inventory-Optimization-Dashboard-with-Power-BI/blob/main/snapshots/country%20wise%20inventory.png?raw=true)
 
 ### Monthly Restocking Trends
 ![Restocking Trends](./screenshots/restocking_trends.png)
