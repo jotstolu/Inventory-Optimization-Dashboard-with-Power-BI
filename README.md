@@ -65,9 +65,8 @@ The dataset includes the following key fields:
 ![Stock by Country](https://github.com/jotstolu/Inventory-Optimization-Dashboard-with-Power-BI/blob/main/snapshots/country%20wise%20inventory.png?raw=true)
 
 ### Monthly Restocking Trends
-![Restocking Trends](./screenshots/restocking_trends.png)
+![Restocking Trends](https://github.com/jotstolu/Inventory-Optimization-Dashboard-with-Power-BI/blob/main/snapshots/Monthly%20Restocking%20Trends.png?raw=true)
 
-> 📌 Ensure your `screenshots/` folder includes these image files when uploading to GitHub.
 
 ---
 
