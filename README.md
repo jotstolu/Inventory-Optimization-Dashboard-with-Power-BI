@@ -56,7 +56,7 @@ The dataset includes the following key fields:
 ## 📸 Dashboard Snapshots
 
 ### Overview Page
-![Inventory Overview](./screenshots/inventory_overview.png)
+![Inventory Overview](https://github.com/jotstolu/Inventory-Optimization-Dashboard-with-Power-BI/blob/main/snapshots/overview.png?raw=true)
 
 ### Supplier Insights Page
 ![Supplier Performance](./screenshots/supplier_performance.png)
